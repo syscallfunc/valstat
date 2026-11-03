@@ -1,5 +1,5 @@
 
-![Logo](https://ibb.co/xWYvdMR)
+![Logo](https://i.ibb.co/dFt9xQz/valstat-icon.png)
 
 
 # valstat
