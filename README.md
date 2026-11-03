@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/dFt9xQz/valstat-icon.png)
+<img src="https://i.ibb.co/dFt9xQz/valstat-icon.png" alt="Logo" width="200"/>
 
 
 # valstat
